@@ -3,7 +3,7 @@
 
 ![Alt text]("posts/home/ayaanle/Pictures/Sreenshots/ayan2.gif "Optional title")
 <h1 align="center">Welcome my name is -> Ayaanle</h1>
-<h3 align="center">I am a student who has enormous passion for computer science and industrial engineering</h3>
+<h3 align="center">I am a student who has enormous passion for aerospace engineering, computer science and industrial engineering</h3>
 <image align="right" alt="programming" width="600" src="/home/ayaanle/Pictures/Screenshots/ayan2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanlehashi11&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanlehashi11" /> </p>
