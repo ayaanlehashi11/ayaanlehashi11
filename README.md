@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![my_gif](https://user-images.githubusercontent.com/91608871/210249176-d5affb43-8d87-443e-88a8-be358223bfa7.jpg)
+![electro](https://user-images.githubusercontent.com/91608871/210257665-e07d3bab-a54d-4349-9376-3cf12c4751a3.jpg)
 
 
 ![Alt text]("posts/home/ayaanle/Pictures/Sreenshots/ayan2.gif "Optional title")
