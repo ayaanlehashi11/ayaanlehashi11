@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [computer science , aerospace engineering & industrial engineering]
 
-- 💬 Ask me about **software development , AI and different sub-fields of computer science**
+● 💬 Ask me about **software development , AI and different sub-fields of computer science**
 
--📘📚 "the more you know the more you know what you don't know" richard feynman
+● 📚 "the more you know the more you know what you don't know" richard feynman
 
--😂✅ fun fact:those who code have no time for shukansi
+● 😂 fun fact:those who code have no time for shukansi
 
-- 📫 How to reach me **ayaanlehashi6157@gmail.com**
+● 📫 How to reach me **ayaanlehashi6157@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
