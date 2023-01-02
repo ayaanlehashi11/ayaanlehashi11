@@ -11,11 +11,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaanlehashi11&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanlehashi11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayaanlehashi540" target="blank"><img src="https://img.shields.io/twitter/follow/ayaanlehashi540?logo=twitter&style=for-the-badge" alt="ayaanlehashi540" /></a> </p>
+- ❤ favourite fields are aerospace engineering, computer science, industrial engineering , robotics , AI
+
 - 🌱 I’m currently learning **aerospace engineering & computer science**
 
 - 📝 I regularly write articles on [computer science , aerospace engineering & industrial engineering]
 
-- 💬 Ask me about **c++ , swift , java and python**
+- 💬 Ask me about **software development , AI and different sub-fields of computer science**
+
+-📘📚 "the more you know the more you know what you don't know" richard feynman
+
+-😂✅ fun fact:those who code have no time for shukansi
 
 - 📫 How to reach me **ayaanlehashi6157@gmail.com**
 
