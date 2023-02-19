@@ -9,16 +9,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaanlehashi11&" alt="ayaanlehashi11" /></p>
 
-- 🌱 I’m currently learning **aerospace engineering & computer science
-
-• 💬 Ask me about **software development , AI and different sub-fields of computer science**
-
-• 📚 "the more you know the more you know what you don't know" richard feynman
-
-- 📝 I regularly write and read articles on [computer science , aerospace engineering , industrial engineering , robotics and AI]
-
-• 😂 fun fact:those who code have sixth sense and it is the intuition on problem solving
-
 • 📫 How to reach me **ayaanlehashi6157@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
