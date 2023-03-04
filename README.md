@@ -1,8 +1,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanlehashi11&show_icons=true&theme=radical" alt="ayaanlehashi11" /></p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayaanlehashi11&count_private=true&theme=radical&border_radius=8&langs_count=20)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayaanlehashi11&count_private=true&theme=radical&hide=html&border_radius=8&langs_count=20)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayaanlehashi11&count_private=true&theme=radical&layout=compact&border_radius=8&langs_count=20)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayaanlehashi11&count_private=true&theme=radical&layout=compact&hide=html&border_radius=8&langs_count=20)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaanlehashi11" alt="ayaanlehashi11" /></a> </p>
 
