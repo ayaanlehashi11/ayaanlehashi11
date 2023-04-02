@@ -1,11 +1,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanlehashi11&show_icons=true&theme=radical" alt="ayaanlehashi11" /></p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayaanlehashi11&langs_count=5?username=ayaanlehashi11&show_icons=true&locale=en&theme=radical" alt="ayaanlehashi11" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayaanlehashi11&count_private=true&theme=radical&border_radius=8&langs_count=20&hide=kotlin" alt="ayaanlehashi11" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayaanlehashi11&langs_count=5?username=ayaanlehashi11&show_icons=true&locale=en&theme=radical" alt="ayaanlehashi11" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanlehashi11&show_icons=true&theme=radical" alt="ayaanlehashi11" /></p>
-
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ayaanlehashi11&count_private=true&theme=radical&layout=compact&border_radius=8&langs_count=20&hide=kotlin" alt="ayaanlehashi11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaanlehashi11&" alt="ayaanlehashi11" /></p>
 
